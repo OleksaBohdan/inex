@@ -1,6 +1,7 @@
 # INEX
 
-![Logo](https://ibb.co/qp9bD6m)
+![Uploading logo.png…]()
+
 
 ## Description
 
