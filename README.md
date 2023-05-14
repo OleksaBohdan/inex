@@ -1,7 +1,6 @@
 # INEX
 
-[![Badge1](https://img.shields.io/badge/Badge1-Badge1-green)](https://shields.io/)
-[![Badge2](https://img.shields.io/badge/Badge2-Badge2-green)](https://shields.io/)
+![Logo](https://ibb.co/qp9bD6m)
 
 ## Description
 
