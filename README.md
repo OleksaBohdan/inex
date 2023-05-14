@@ -1,6 +1,6 @@
 # INEX
 
-![Uploading logo.png…]()
+
 
 
 ## Description
